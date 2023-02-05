@@ -47,5 +47,7 @@ button = tk.Button(gui, text="Zapisz", command = add_dane)
 button.place(x=230, y=125)
 
 
+print("Rafal to ziomal")
+
 
 
