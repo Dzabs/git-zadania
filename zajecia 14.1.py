@@ -46,6 +46,8 @@ def add_dane():
 button = tk.Button(gui, text="Zapisz", command = add_dane)
 button.place(x=230, y=125)
 
+print("Mati to ziomal")
+
 
 print("Rafal to ziomal")
 
